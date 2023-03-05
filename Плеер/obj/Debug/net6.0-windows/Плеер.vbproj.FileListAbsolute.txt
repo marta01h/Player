@@ -1,0 +1,5 @@
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\net6.0-windows\Плеер.vbproj.AssemblyReference.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\net6.0-windows\Page1.g.vb
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\net6.0-windows\Плеер_MarkupCompile.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\net6.0-windows\Плеер_MarkupCompile.lref
